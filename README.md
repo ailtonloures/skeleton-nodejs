@@ -6,7 +6,7 @@ Estrutura inicial para projetos desenvolvidos em Node.js.
 
 ## O que você verá no projeto 
 
-***Atenção: Qualquer dúvida que tenha no projeto. Leia a documentação desses componentes.***
+***Atenção: Qualquer dúvida que tenha no projeto. Leia a documentação dos componentes abaixo.***
 
 - Routes - [Express](https://expressjs.com/pt-br/)
 - Tests - [Jest](https://jestjs.io/pt-BR/)
@@ -14,6 +14,7 @@ Estrutura inicial para projetos desenvolvidos em Node.js.
 - Typescript
 - Babel
 - Cors
+- Docker
 
 ## Requisitos
 
